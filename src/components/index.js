@@ -1,0 +1,8 @@
+export { default as Home } from './Home'
+export { default as Header } from './Header'
+export { default as Hero } from './Hero'
+export { default as Project } from './Projects'
+export { default as SkillStack } from './skillStack'
+export { default as Contact } from './Contact'
+export { default as Footer } from './Footer'
+export { default as Scrollup } from './Scrollup'
